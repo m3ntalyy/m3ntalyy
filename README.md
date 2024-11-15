@@ -4,5 +4,5 @@
   Age       :  15 
   Country   :  None 
   Main      :  ??? 
-  Discord  :   @recgore
+  Discord  :   @7hsz
   ```
