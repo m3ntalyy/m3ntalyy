@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://cdn.discordapp.com/attachments/1280283102354210816/1280290456726540506/a_a3aac522a2678ac80758e5a5096dc649.gif?ex=66d78ae7&is=66d63967&hm=b19adb7b39e75199183ecb4f48bbb3300a4c0e34dabba6b686c921d295b5558c&" alt="mosca" width="600"> </p> <p align="center"> 
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/1308500398671401000/1327018653954216017/descarga-2025-01-09T155547.052.png?ex=678189ed&is=6780386d&hm=50c8e40107ddf08b129fcd34c9cc5ec4a2abf7cc7b62f5fd70c12dc4f5d0abed&" alt="mentaly" width="600"> </p> <p align="center"> 
   
   ```json
   Age       :  15 
   Country   :  None 
-  Main      :  ??? 
-  Discord  :   @7hsz
+  Main      :  Bash
+  Discord  :   @764r
   ```
